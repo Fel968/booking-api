@@ -1,0 +1,7 @@
+create a folder called ...
+initialize npm in the project
+create an index.js file
+install nodemon and configure the script
+create your server and listen on a port. create your first route for /booking to get all booking
+
+http methods
